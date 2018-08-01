@@ -21,7 +21,7 @@ HTML code : [payload for linux ]
 
 If you want to use another operation system, you should do this:
 
-HTML code : [payload for linux ]
+HTML code : [payload for other os ]
 <p> Copy <span style="position: absolute; left: -2000px; top: -100px;">
 [Execute code for other operating systems] <br>  </span> Paste All Text </p>
 
